@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-nabila",
+  "version": "1.0.0",
+  "description": "Portfolio website connected to GitHub repositories.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
