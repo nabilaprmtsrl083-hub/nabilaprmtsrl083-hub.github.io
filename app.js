@@ -1,1 +1,0 @@
-document.getElementById('btn').onclick=()=>document.getElementById('projects').scrollIntoView({behavior:'smooth'});
